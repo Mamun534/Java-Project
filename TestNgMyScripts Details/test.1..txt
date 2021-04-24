@@ -1,0 +1,85 @@
+Setting up test ng has two steps 
+
+1.testNG plugin with eclipse 
+Open the eclipse  click on help then click on install new software testng link which is I copied from google 
+and paste the link work with -https://dl.bintray.com/testng-team/testng-eclipse-release/  then click on add 
+and showing TestNg select all and click on next review the page n click on next then finish is ready for work 
+.
+2. testNG jar file . ( download link jar = https://mvnrepository.com/artifact/org.testng/testng/6.10).
+After install the testng go to the  eclipse create a Java project -create a library folder- then copy 2 selenium jar and testNg jar paste on library – add all of build path – now is ready for use selenium and TestNg.
+Good to Go…..
+
+
+TestNg Structure :  
+
+//this is how we creat a funtion  = public void setupTest(){}
+
+//Annotation -sequence (@Before,@After,@Test is called annotation).
+
+//sequence is called what ever im doing in scripts like bellow :
+
+
+@BeforeTest 
+public void setupTest(){
+
+
+}
+
+@Test 
+public void mainTest(){
+
+
+}
+
+
+@AfterTest 
+
+public void AfterTest(){
+
+
+}
+
+
+BeforeTest - excutes one time before all the test .
+AfterTest - excutes one time After all the test .
+
+1 class - is 1 test script.
+
+
+1 test scripts can have multiple test or test cases like :
+
+
+@Test 
+Public void aTest(){
+
+}
+
+@Test 
+Public void bTest(){
+
+}
+
+
+@Test 
+Public void cTest(){
+
+}
+
+if we have multipale test in a 1 test Scripts the test will be excute  by alphabitcal orders (a,b,c,d,e) 
+or 
+we can setup  pioritoy (0),pioritoy (1),pioritoy (2) etc.
+ 
+
+
+if i want to excute something Before or after test we have to annotation 
+			
+@BeforeMethod -
+@AfterMethod - 
+
+
+
+
+
+
+
+
