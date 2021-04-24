@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<suite name = "Sauce_Demo_Regrassion_Test">
+
+<test name = "Sauce_Demo_Shoping_Regrassion">
+
+<classes>
+
+<class name = "SausceDemoScripts.SauceDemoShopingTestNG"></class>
+
+</classes>
+
+</test>
+
+</suite>

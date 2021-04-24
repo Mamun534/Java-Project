@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="30" passed="30">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Yahoo_Data_Driven_Test" duration-ms="105427" started-at="2021-04-22T22:13:52Z" finished-at="2021-04-22T22:15:38Z">
+    <groups>
+    </groups>
+    <test name="Yahoo_Data_Driven_Test" duration-ms="49708" started-at="2021-04-22T22:13:52Z" finished-at="2021-04-22T22:14:42Z">
+      <class name="Home_Work_Foure_Scripts.ValidateLink">
+        <test-method status="PASS" signature="ReadTheUrl()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ReadTheUrl" is-config="true" duration-ms="5030" started-at="2021-04-22T18:13:52Z" finished-at="2021-04-22T18:13:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadTheUrl -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@215be6bb]" name="beforeTest" is-config="true" duration-ms="2322" started-at="2021-04-22T18:13:57Z" finished-at="2021-04-22T18:14:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="beforeTest" is-config="true" duration-ms="3016" started-at="2021-04-22T18:14:00Z" finished-at="2021-04-22T18:14:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ScreenShots" is-config="true" duration-ms="504" started-at="2021-04-22T18:14:03Z" finished-at="2021-04-22T18:14:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="Special()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="Special" duration-ms="1958" started-at="2021-04-22T18:14:03Z" finished-at="2021-04-22T18:14:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Special -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ScreenShots" is-config="true" duration-ms="511" started-at="2021-04-22T18:14:05Z" finished-at="2021-04-22T18:14:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="NewProducts()[pri:1, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="NewProducts" duration-ms="1978" started-at="2021-04-22T18:14:06Z" finished-at="2021-04-22T18:14:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewProducts -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ScreenShots" is-config="true" duration-ms="393" started-at="2021-04-22T18:14:07Z" finished-at="2021-04-22T18:14:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="BestSellers()[pri:2, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="BestSellers" duration-ms="1888" started-at="2021-04-22T18:14:08Z" finished-at="2021-04-22T18:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BestSellers -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ScreenShots" is-config="true" duration-ms="596" started-at="2021-04-22T18:14:10Z" finished-at="2021-04-22T18:14:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="OurStores()[pri:3, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="OurStores" duration-ms="2195" started-at="2021-04-22T18:14:10Z" finished-at="2021-04-22T18:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OurStores -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ScreenShots" is-config="true" duration-ms="434" started-at="2021-04-22T18:14:13Z" finished-at="2021-04-22T18:14:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="ContactUs()[pri:4, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ContactUs" duration-ms="2027" started-at="2021-04-22T18:14:13Z" finished-at="2021-04-22T18:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUs -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ScreenShots" is-config="true" duration-ms="371" started-at="2021-04-22T18:14:15Z" finished-at="2021-04-22T18:14:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="TrmsnCondi()[pri:5, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="TrmsnCondi" duration-ms="1616" started-at="2021-04-22T18:14:15Z" finished-at="2021-04-22T18:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrmsnCondi -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ScreenShots" is-config="true" duration-ms="412" started-at="2021-04-22T18:14:17Z" finished-at="2021-04-22T18:14:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="AboutUs()[pri:6, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="AboutUs" duration-ms="1604" started-at="2021-04-22T18:14:17Z" finished-at="2021-04-22T18:14:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUs -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="ScreenShots" is-config="true" duration-ms="525" started-at="2021-04-22T18:14:19Z" finished-at="2021-04-22T18:14:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="SiteMap()[pri:7, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="SiteMap" duration-ms="2037" started-at="2021-04-22T18:14:20Z" finished-at="2021-04-22T18:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SiteMap -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@1810399e]" name="endTest" is-config="true" duration-ms="1003" started-at="2021-04-22T18:14:36Z" finished-at="2021-04-22T18:14:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="SignUpTest()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@215be6bb]" name="SignUpTest" is-config="true" duration-ms="2873" started-at="2021-04-22T18:14:37Z" finished-at="2021-04-22T18:14:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+        <test-method status="PASS" signature="SignUpTest()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="SignUpTest" is-config="true" duration-ms="2018" started-at="2021-04-22T18:14:40Z" finished-at="2021-04-22T18:14:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+      </class> <!-- Home_Work_Foure_Scripts.ValidateLink -->
+      <class name="Home_Work_Foure_Scripts.YahooTestNG">
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@215be6bb]" name="ScreenShots" is-config="true" duration-ms="336" started-at="2021-04-22T18:14:29Z" finished-at="2021-04-22T18:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="Signup()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@215be6bb]" name="Signup" duration-ms="2533" started-at="2021-04-22T18:14:29Z" finished-at="2021-04-22T18:14:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@215be6bb]" name="ScreenShots" is-config="true" duration-ms="359" started-at="2021-04-22T18:14:32Z" finished-at="2021-04-22T18:14:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="PhoneNumber()[pri:1, instance:Home_Work_Foure_Scripts.YahooTestNG@215be6bb]" name="PhoneNumber" duration-ms="1805" started-at="2021-04-22T18:14:32Z" finished-at="2021-04-22T18:14:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PhoneNumber -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@215be6bb]" name="ScreenShots" is-config="true" duration-ms="278" started-at="2021-04-22T18:14:34Z" finished-at="2021-04-22T18:14:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="Dateofbarth()[pri:2, instance:Home_Work_Foure_Scripts.YahooTestNG@215be6bb]" name="Dateofbarth" duration-ms="1687" started-at="2021-04-22T18:14:34Z" finished-at="2021-04-22T18:14:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dateofbarth -->
+      </class> <!-- Home_Work_Foure_Scripts.YahooTestNG -->
+      <class name="Home_Work_Foure_Scripts.YahoosignupTestNG">
+        <test-method status="PASS" signature="CrAccount()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="CrAccount" duration-ms="486" started-at="2021-04-22T18:14:22Z" finished-at="2021-04-22T18:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrAccount -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="ScreenShots" is-config="true" duration-ms="336" started-at="2021-04-22T18:14:22Z" finished-at="2021-04-22T18:14:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="Signup()[pri:1, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="Signup" duration-ms="2621" started-at="2021-04-22T18:14:22Z" finished-at="2021-04-22T18:14:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="ScreenShots" is-config="true" duration-ms="351" started-at="2021-04-22T18:14:25Z" finished-at="2021-04-22T18:14:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="PhoneNumber()[pri:2, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="PhoneNumber" duration-ms="823" started-at="2021-04-22T18:14:25Z" finished-at="2021-04-22T18:14:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PhoneNumber -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="ScreenShots" is-config="true" duration-ms="415" started-at="2021-04-22T18:14:26Z" finished-at="2021-04-22T18:14:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="DateofBirth()[pri:3, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="DateofBirth" duration-ms="2034" started-at="2021-04-22T18:14:27Z" finished-at="2021-04-22T18:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DateofBirth -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@32d992b2]" name="ScreenShots" is-config="true" duration-ms="290" started-at="2021-04-22T18:14:29Z" finished-at="2021-04-22T18:14:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+      </class> <!-- Home_Work_Foure_Scripts.YahoosignupTestNG -->
+    </test> <!-- Yahoo_Data_Driven_Test -->
+    <test name="regression test 2" duration-ms="55675" started-at="2021-04-22T22:14:42Z" finished-at="2021-04-22T22:15:38Z">
+      <class name="Home_Work_Foure_Scripts.ValidateLink">
+        <test-method status="PASS" signature="ReadTheUrl()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ReadTheUrl" is-config="true" duration-ms="4182" started-at="2021-04-22T18:14:42Z" finished-at="2021-04-22T18:14:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReadTheUrl -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@2a5ca609]" name="beforeTest" is-config="true" duration-ms="2318" started-at="2021-04-22T18:14:46Z" finished-at="2021-04-22T18:14:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="beforeTest" is-config="true" duration-ms="2938" started-at="2021-04-22T18:14:48Z" finished-at="2021-04-22T18:14:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ScreenShots" is-config="true" duration-ms="483" started-at="2021-04-22T18:14:51Z" finished-at="2021-04-22T18:14:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="Special()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="Special" duration-ms="2249" started-at="2021-04-22T18:14:52Z" finished-at="2021-04-22T18:14:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Special -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ScreenShots" is-config="true" duration-ms="516" started-at="2021-04-22T18:14:54Z" finished-at="2021-04-22T18:14:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="NewProducts()[pri:1, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="NewProducts" duration-ms="2927" started-at="2021-04-22T18:14:55Z" finished-at="2021-04-22T18:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NewProducts -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ScreenShots" is-config="true" duration-ms="364" started-at="2021-04-22T18:14:58Z" finished-at="2021-04-22T18:14:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="BestSellers()[pri:2, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="BestSellers" duration-ms="4108" started-at="2021-04-22T18:14:58Z" finished-at="2021-04-22T18:15:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BestSellers -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ScreenShots" is-config="true" duration-ms="475" started-at="2021-04-22T18:15:02Z" finished-at="2021-04-22T18:15:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="OurStores()[pri:3, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="OurStores" duration-ms="3996" started-at="2021-04-22T18:15:02Z" finished-at="2021-04-22T18:15:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- OurStores -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ScreenShots" is-config="true" duration-ms="397" started-at="2021-04-22T18:15:06Z" finished-at="2021-04-22T18:15:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="ContactUs()[pri:4, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ContactUs" duration-ms="2729" started-at="2021-04-22T18:15:07Z" finished-at="2021-04-22T18:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContactUs -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ScreenShots" is-config="true" duration-ms="399" started-at="2021-04-22T18:15:10Z" finished-at="2021-04-22T18:15:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="TrmsnCondi()[pri:5, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="TrmsnCondi" duration-ms="2740" started-at="2021-04-22T18:15:10Z" finished-at="2021-04-22T18:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TrmsnCondi -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ScreenShots" is-config="true" duration-ms="391" started-at="2021-04-22T18:15:13Z" finished-at="2021-04-22T18:15:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="AboutUs()[pri:6, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="AboutUs" duration-ms="1976" started-at="2021-04-22T18:15:13Z" finished-at="2021-04-22T18:15:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AboutUs -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="ScreenShots" is-config="true" duration-ms="506" started-at="2021-04-22T18:15:15Z" finished-at="2021-04-22T18:15:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="SiteMap()[pri:7, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="SiteMap" duration-ms="2085" started-at="2021-04-22T18:15:16Z" finished-at="2021-04-22T18:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SiteMap -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:Home_Work_Foure_Scripts.ValidateLink@7c16905e]" name="endTest" is-config="true" duration-ms="924" started-at="2021-04-22T18:15:32Z" finished-at="2021-04-22T18:15:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="SignUpTest()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@2a5ca609]" name="SignUpTest" is-config="true" duration-ms="2939" started-at="2021-04-22T18:15:33Z" finished-at="2021-04-22T18:15:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+        <test-method status="PASS" signature="SignUpTest()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="SignUpTest" is-config="true" duration-ms="1909" started-at="2021-04-22T18:15:36Z" finished-at="2021-04-22T18:15:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignUpTest -->
+      </class> <!-- Home_Work_Foure_Scripts.ValidateLink -->
+      <class name="Home_Work_Foure_Scripts.YahooTestNG">
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@2a5ca609]" name="ScreenShots" is-config="true" duration-ms="359" started-at="2021-04-22T18:15:25Z" finished-at="2021-04-22T18:15:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="Signup()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@2a5ca609]" name="Signup" duration-ms="2579" started-at="2021-04-22T18:15:25Z" finished-at="2021-04-22T18:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@2a5ca609]" name="ScreenShots" is-config="true" duration-ms="314" started-at="2021-04-22T18:15:28Z" finished-at="2021-04-22T18:15:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="PhoneNumber()[pri:1, instance:Home_Work_Foure_Scripts.YahooTestNG@2a5ca609]" name="PhoneNumber" duration-ms="1796" started-at="2021-04-22T18:15:28Z" finished-at="2021-04-22T18:15:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PhoneNumber -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahooTestNG@2a5ca609]" name="ScreenShots" is-config="true" duration-ms="272" started-at="2021-04-22T18:15:30Z" finished-at="2021-04-22T18:15:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="Dateofbarth()[pri:2, instance:Home_Work_Foure_Scripts.YahooTestNG@2a5ca609]" name="Dateofbarth" duration-ms="1640" started-at="2021-04-22T18:15:30Z" finished-at="2021-04-22T18:15:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Dateofbarth -->
+      </class> <!-- Home_Work_Foure_Scripts.YahooTestNG -->
+      <class name="Home_Work_Foure_Scripts.YahoosignupTestNG">
+        <test-method status="PASS" signature="CrAccount()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="CrAccount" duration-ms="498" started-at="2021-04-22T18:15:18Z" finished-at="2021-04-22T18:15:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CrAccount -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="ScreenShots" is-config="true" duration-ms="351" started-at="2021-04-22T18:15:18Z" finished-at="2021-04-22T18:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="Signup()[pri:1, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="Signup" duration-ms="2506" started-at="2021-04-22T18:15:19Z" finished-at="2021-04-22T18:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signup -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="ScreenShots" is-config="true" duration-ms="286" started-at="2021-04-22T18:15:21Z" finished-at="2021-04-22T18:15:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="PhoneNumber()[pri:2, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="PhoneNumber" duration-ms="678" started-at="2021-04-22T18:15:21Z" finished-at="2021-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PhoneNumber -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="ScreenShots" is-config="true" duration-ms="303" started-at="2021-04-22T18:15:22Z" finished-at="2021-04-22T18:15:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+        <test-method status="PASS" signature="DateofBirth()[pri:3, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="DateofBirth" duration-ms="2181" started-at="2021-04-22T18:15:22Z" finished-at="2021-04-22T18:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DateofBirth -->
+        <test-method status="PASS" signature="ScreenShots()[pri:0, instance:Home_Work_Foure_Scripts.YahoosignupTestNG@2a2d45ba]" name="ScreenShots" is-config="true" duration-ms="341" started-at="2021-04-22T18:15:25Z" finished-at="2021-04-22T18:15:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ScreenShots -->
+      </class> <!-- Home_Work_Foure_Scripts.YahoosignupTestNG -->
+    </test> <!-- regression test 2 -->
+  </suite> <!-- Yahoo_Data_Driven_Test -->
+</testng-results>

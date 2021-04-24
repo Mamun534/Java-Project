@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Sauce_Demo_Regrassion_Test]">
+  <test name="SauceDemoShoping(failed)">
+    <classes>
+      <class name="SausceDemoScripts.SauceDemoShopingTestNG">
+        <methods>
+          <include name="setupTest"/>
+          <include name="UserInformation"/>
+          <include name="TotalPrice"/>
+          <include name="ScreenShots"/>
+          <include name="ContinueShoping"/>
+          <include name="endTest"/>
+        </methods>
+      </class> <!-- SausceDemoScripts.SauceDemoShopingTestNG -->
+      <class name="SausceDemoScripts.Sauce_Demo_Data_Driven_Code">
+        <methods>
+          <include name="setupTest"/>
+          <include name="FinishTest"/>
+          <include name="ValidateLogin"/>
+        </methods>
+      </class> <!-- SausceDemoScripts.Sauce_Demo_Data_Driven_Code -->
+    </classes>
+  </test> <!-- SauceDemoShoping(failed) -->
+</suite> <!-- Failed suite [Sauce_Demo_Regrassion_Test] -->

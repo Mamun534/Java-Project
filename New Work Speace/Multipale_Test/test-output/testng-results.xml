@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22878" started-at="2021-04-23T04:59:32Z" finished-at="2021-04-23T04:59:54Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22878" started-at="2021-04-23T04:59:32Z" finished-at="2021-04-23T04:59:54Z">
+      <class name="Multiple_Test_scripts.SauceDemoShopingTestNG">
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="setupTest" is-config="true" duration-ms="3112" started-at="2021-04-23T00:59:32Z" finished-at="2021-04-23T00:59:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="LoginData()[pri:0, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="LoginData" duration-ms="3574" started-at="2021-04-23T00:59:35Z" finished-at="2021-04-23T00:59:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginData -->
+        <test-method status="PASS" signature="Screenshots()[pri:0, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="Screenshots" is-config="true" duration-ms="821" started-at="2021-04-23T00:59:38Z" finished-at="2021-04-23T00:59:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshots -->
+        <test-method status="PASS" signature="Shopping()[pri:1, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="Shopping" duration-ms="3618" started-at="2021-04-23T00:59:39Z" finished-at="2021-04-23T00:59:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Shopping -->
+        <test-method status="PASS" signature="Screenshots()[pri:0, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="Screenshots" is-config="true" duration-ms="829" started-at="2021-04-23T00:59:43Z" finished-at="2021-04-23T00:59:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshots -->
+        <test-method status="PASS" signature="ContinueShoping()[pri:2, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="ContinueShoping" duration-ms="3527" started-at="2021-04-23T00:59:44Z" finished-at="2021-04-23T00:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ContinueShoping -->
+        <test-method status="PASS" signature="Screenshots()[pri:0, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="Screenshots" is-config="true" duration-ms="272" started-at="2021-04-23T00:59:47Z" finished-at="2021-04-23T00:59:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshots -->
+        <test-method status="PASS" signature="UserInformation()[pri:3, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="UserInformation" duration-ms="3589" started-at="2021-04-23T00:59:47Z" finished-at="2021-04-23T00:59:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UserInformation -->
+        <test-method status="PASS" signature="Screenshots()[pri:0, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="Screenshots" is-config="true" duration-ms="304" started-at="2021-04-23T00:59:51Z" finished-at="2021-04-23T00:59:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshots -->
+        <test-method status="PASS" signature="TotalPrice()[pri:4, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="TotalPrice" duration-ms="1466" started-at="2021-04-23T00:59:51Z" finished-at="2021-04-23T00:59:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TotalPrice -->
+        <test-method status="PASS" signature="Screenshots()[pri:0, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="Screenshots" is-config="true" duration-ms="815" started-at="2021-04-23T00:59:53Z" finished-at="2021-04-23T00:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Screenshots -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:Multiple_Test_scripts.SauceDemoShopingTestNG@7fc2413d]" name="endTest" is-config="true" duration-ms="930" started-at="2021-04-23T00:59:54Z" finished-at="2021-04-23T00:59:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- Multiple_Test_scripts.SauceDemoShopingTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
