@@ -1,0 +1,29 @@
+package Array_Work;
+
+import java.util.*;
+public class Array_Work_Sorted {
+	
+   public static void main(String []args){
+	   
+      int arr[] = {55, 10, 8, 90, 43, 87, 95, 25, 50, 12};
+      System.out.println("Array = "+Arrays.toString(arr));
+      Arrays.sort(arr);
+      
+      System.out.println("Sorted Array = "+Arrays.toString(arr));
+      
+      System.out.println("Smallest element = "+arr[0]);
+      System.out.println("2nd Smallest element = "+arr[1]);
+      System.out.println("Largest element = "+arr[9]);
+      System.out.println("2nd Largest element = "+arr[8]);
+   }
+}
+
+
+Console...................................
+
+Array = [55, 10, 8, 90, 43, 87, 95, 25, 50, 12]
+Sorted Array = [8, 10, 12, 25, 43, 50, 55, 87, 90, 95]
+Smallest element = 8
+2nd Smallest element = 10
+Largest element = 95
+2nd Largest element = 90
