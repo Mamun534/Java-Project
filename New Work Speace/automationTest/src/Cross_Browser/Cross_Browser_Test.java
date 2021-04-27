@@ -2,13 +2,15 @@ package Cross_Browser;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.firefox.GeckoDriverService;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
 public class Cross_Browser_Test {
 
 	WebDriver driver;
-
+	GeckoDriverService driver1;
+	
 	@Test 
 	@Parameters("browser")
 	public void CrossBrowserTest(String browserName){
@@ -23,25 +25,10 @@ public class Cross_Browser_Test {
 			
 		System.setProperty("webdriver.geckodriver.driver","C:\\Users\\Owner\\OneDrive\\Desktop\\Program Libraries Selenium\\geckodriver.exe");
 	
-		driver = new geckodriver();
+		//driver1 = new GeckoDriverService();
 		} 
-		
 	
-	
-	
-	{
-
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 	}
-}
+		
+	}
